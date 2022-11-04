@@ -7,7 +7,7 @@ st.header('st.write')
 
 # Example 1
 
-st.write('Hello, *World!* :sunglasses:')
+st.write('Hello, *Everyone!* :sunglasses:')
 
 # Example 2
 
@@ -16,7 +16,7 @@ st.write(1234)
 # Example 3
 
 df = pd.DataFrame({
-     'first column': [1, 2, 3, 4],
+     'first column': [0, 0, 0, 0],
      'second column': [10, 20, 30, 40]
      })
 st.write(df)
